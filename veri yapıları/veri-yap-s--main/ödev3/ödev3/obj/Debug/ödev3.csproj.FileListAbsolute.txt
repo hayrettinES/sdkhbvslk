@@ -1,0 +1,7 @@
+C:\Users\efeak\source\repos\ödev3\ödev3\bin\Debug\ödev3.exe.config
+C:\Users\efeak\source\repos\ödev3\ödev3\bin\Debug\ödev3.exe
+C:\Users\efeak\source\repos\ödev3\ödev3\bin\Debug\ödev3.pdb
+C:\Users\efeak\source\repos\ödev3\ödev3\obj\Debug\ödev3.csproj.AssemblyReference.cache
+C:\Users\efeak\source\repos\ödev3\ödev3\obj\Debug\ödev3.csproj.CoreCompileInputs.cache
+C:\Users\efeak\source\repos\ödev3\ödev3\obj\Debug\ödev3.exe
+C:\Users\efeak\source\repos\ödev3\ödev3\obj\Debug\ödev3.pdb
